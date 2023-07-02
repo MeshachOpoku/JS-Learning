@@ -1,0 +1,1 @@
+jn={name:["Sank","Plin","vA","ghlc","oip"],behaviour:[1,2,1,2,34]}; for(i=0;i<jn.name.length;i++){console.log("Name "+"is:"+jn.name[i]+"\nbehaviour:"+jn.behaviour[i]) ;if(jn.behaviour[i]<3){console.log("Behavuior: mild good");}else {console.log("Behaviour:mild dramatic");}}
